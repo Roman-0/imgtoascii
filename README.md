@@ -1,7 +1,7 @@
 # imgtoascii
 converts images into ascii art
 
-[grey](https://github.com/Roman-0/imgtoascii/grey.png)
+ ![widget](https://github.com/Roman-0/imgtoascii/grey.png?raw=true)
 
 ~~~~~~~~~~~~~~~:::::::::::::::::;;;;=====!!!!!!!!===!================!!!!!!!!!!!!
 ~~~~~~~~~~~~~:::::::::::::::::::::::;=;;==!!!!!!!!!!!=============!!!!!!!!!!!!!!
