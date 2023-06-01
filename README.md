@@ -1,5 +1,9 @@
 # imgtoascii
-converts images into ascii art
+Converts images into ascii art. 
+[NOT STABLE]
+
+# I have no idea what I am doing, this project is for me to learn git and project management.
+Suggestions are appreciated, I still do not know best practices.
 
 ![grey](https://github.com/Roman-0/imgtoascii/assets/54517920/6f63f9b6-bd32-43d7-941a-b31ce053536c)
 
