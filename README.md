@@ -12,7 +12,7 @@ FLAGS:
             x resolution of the generated text
 
 ```
-<img src="https://github.com/Roman-0/imgtoascii/assets/54517920/6f63f9b6-bd32-43d7-941a-b31ce053536c"  width="240" height="240">
+<img src="https://github.com/Roman-0/imgtoascii/blob/master/duck.jpg"  width="240" height="240">
 
 ```
 generated with: cargo run -- -p duck.jpg
